@@ -4,11 +4,11 @@
 
 In this challenge, I have build a choose your own adventure game like Bandersnatch. In the process, I have applied my knowledge from the last project (Quizzler) to use Dart OOP principles to build a well organised project.
 
-### Story Plan
+## Story Plan
 
 ![Story Plan](https://github.com/gokmentas/images/blob/main/story_plan.png)
 
-### Story Outline
+## Story Outline
 
 ![Story Outline](https://github.com/gokmentas/images/blob/main/story_outline.png)
 
