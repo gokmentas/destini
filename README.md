@@ -2,7 +2,7 @@
 
 ## My Goal
 
-In this challenge, I will be building a choose your own adventure game like Bandersnatch. In the process, I will apply my knowledge from the last project (Quizzler) to use Dart OOP principles to build a well organised project.
+In this challenge, I have build a choose your own adventure game like Bandersnatch. In the process, I have applied my knowledge from the last project (Quizzler) to use Dart OOP principles to build a well organised project.
 
 ### Story Plan
 
